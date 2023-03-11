@@ -1,11 +1,11 @@
 [
   {
-    "path": "posts/welcome/",
-    "title": "Welcome to Xu's Blog",
+    "path": "posts/2023-03-02-welcome-to-xus-blog/",
+    "title": "Greetings! guys",
     "description": "Welcome to our new blog, Xu's Blog. We hope you enjoy \nreading what we have to say!",
     "author": [
       {
-        "name": "Nora Jones",
+        "name": "Shaoyuan Xu",
         "url": "https://example.com/norajones"
       }
     ],
@@ -13,7 +13,24 @@
     "categories": [],
     "contents": "\n\n\n\n",
     "preview": {},
-    "last_modified": "2023-03-11T14:41:26+08:00",
+    "last_modified": "2023-03-11T16:50:11+08:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to Xu's Blog",
+    "description": "Welcome to our new blog, Xu's Blog. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Shaoyuan Xu",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2023-03-02",
+    "categories": [],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2023-03-11T16:47:11+08:00",
     "input_file": {}
   }
 ]

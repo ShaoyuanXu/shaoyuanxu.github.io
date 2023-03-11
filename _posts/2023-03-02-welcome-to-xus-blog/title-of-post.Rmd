@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Xu's Blog"
+title: "Greetings! guys"
 description: |
   Welcome to our new blog, Xu's Blog. We hope you enjoy 
   reading what we have to say!
@@ -11,16 +11,6 @@ author:
 date: 03-02-2023
 output:
   distill::distill_article:
-    self_contained: false
+    css: styles.css
+    
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-
-# Learn more about creating blogs with Distill at:
-# https://rstudio.github.io/distill/blog.html
-
-```
-
-
-
