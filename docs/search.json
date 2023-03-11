@@ -5,15 +5,15 @@
       "title": "About this blog",
       "description": "Some additional details about the blog",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-03-02T14:45:32+08:00"
+      "contents": "\n\n\n\n",
+      "last_modified": "2023-03-11T14:48:05+08:00"
     },
     {
       "path": "index.html",
       "title": "Xu's Blog",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-03-02T14:45:33+08:00"
+      "contents": "\n\n\n\n",
+      "last_modified": "2023-03-11T14:48:06+08:00"
     }
   ],
   "collections": ["posts/posts.json"]
