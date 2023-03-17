@@ -1,8 +1,7 @@
 ---
 title: "Welcome to Xu's Blog"
 description: |
-  Welcome to our new blog, Xu's Blog. We hope you enjoy 
-  reading what we have to say!
+  Exploring data analysis in finance with the R statistical computing environment.
 author:
   - name: Shaoyuan Xu
     url: https://example.com/norajones
@@ -13,7 +12,11 @@ output:
   distill::distill_article:
     self_contained: false
 ---
+  Greetings, guys! I am Shaoyuan Xu, or you can call me tony, who is a postgraduate dreamed to be a business analysis program developer.
 
+  This blog will post all the past and current projects on, and I am looking forward to have a kind knowledge sharing environment with you guys.
+
+  Last but not least, recently, I am practicing with R and python. Thus, those program posts consist of those languages. 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 

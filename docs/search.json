@@ -6,7 +6,7 @@
       "description": "Some additional details about the blog",
       "author": [],
       "contents": "\nThis is my personal webpage\n\n\n\n",
-      "last_modified": "2023-03-11T16:55:25+08:00"
+      "last_modified": "2023-03-17T16:37:53+08:00"
     },
     {
       "path": "Data_analyze.html",
@@ -20,7 +20,7 @@
       ],
       "date": "`r Sys.Date()`",
       "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2023-03-11T16:55:25+08:00"
+      "last_modified": "2023-03-17T16:37:53+08:00"
     },
     {
       "path": "Finance.html",
@@ -34,14 +34,14 @@
       ],
       "date": "`r Sys.Date()`",
       "contents": "\nadd\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2023-03-11T16:55:25+08:00"
+      "last_modified": "2023-03-17T16:37:53+08:00"
     },
     {
       "path": "index.html",
       "title": "Xu's Blog",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2023-03-11T16:55:26+08:00"
+      "last_modified": "2023-03-17T16:37:54+08:00"
     },
     {
       "path": "Intro.html",
@@ -55,7 +55,7 @@
       ],
       "date": "`r Sys.Date()`",
       "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2023-03-11T16:55:26+08:00"
+      "last_modified": "2023-03-17T16:37:54+08:00"
     }
   ],
   "collections": ["posts/posts.json"]

@@ -1,0 +1,16 @@
+---
+title: "Dashboard"
+description: |
+  Do you want a fancy dashboard to show performance evaluation outcomes?
+author:
+  - name: Shaoyuan Xu 
+    url: https://example.com/norajones
+    affiliation: Spacely Sprockets
+    affiliation_url: https://example.com/spacelysprokets
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+  Here is a project can show individual student score and performance in a specific course with account and password to access. 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```

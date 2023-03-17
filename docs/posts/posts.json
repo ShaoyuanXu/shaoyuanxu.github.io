@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2023-03-17-dashboard/",
+    "title": "Dashboard",
+    "description": "Do you want a fancy dashboard to show performance evaluation outcomes?",
+    "author": [
+      {
+        "name": "Shaoyuan Xu",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2023-03-17",
+    "categories": [],
+    "contents": "\nHere is a project can show individual student score and performance in a specific course with account and password to access.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2023-03-17T16:37:29+08:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/2023-03-02-welcome-to-xus-blog/",
     "title": "Greetings! guys",
     "description": "Welcome to our new blog, Xu's Blog. We hope you enjoy \nreading what we have to say!",
@@ -13,13 +30,13 @@
     "categories": [],
     "contents": "\n\n\n\n",
     "preview": {},
-    "last_modified": "2023-03-11T16:50:11+08:00",
+    "last_modified": "2023-03-13T08:51:54+08:00",
     "input_file": {}
   },
   {
     "path": "posts/welcome/",
     "title": "Welcome to Xu's Blog",
-    "description": "Welcome to our new blog, Xu's Blog. We hope you enjoy \nreading what we have to say!",
+    "description": "Exploring data analysis in finance with the R statistical computing environment.",
     "author": [
       {
         "name": "Shaoyuan Xu",
@@ -28,9 +45,9 @@
     ],
     "date": "2023-03-02",
     "categories": [],
-    "contents": "\n\n\n\n",
+    "contents": "\nGreetings, guys! I am Shaoyuan Xu, or you can call me tony, who is a postgraduate dreamed to be a business analysis program developer.\nThis blog will post all the past and current projects on, and I am looking forward to have a kind knowledge sharing environment with you guys.\nLast but not least, recently, I am practicing with R and python. Thus, those program posts consist of those languages.\n\n\n\n",
     "preview": {},
-    "last_modified": "2023-03-11T16:47:11+08:00",
+    "last_modified": "2023-03-17T16:27:30+08:00",
     "input_file": {}
   }
 ]
